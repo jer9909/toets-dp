@@ -1,0 +1,7 @@
+wordpress:
+data base naam:scotchbox
+gebruiksnaam :root 2x invullen
+wachtwoord: root
+plugins
+woocommerce
+gooi wordpress in je public map
